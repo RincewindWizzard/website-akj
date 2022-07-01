@@ -34,20 +34,18 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
+
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: akj_kiel # jekyll-seo-tag > Owners twitter username
+author: AKJ Kiel # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: AKJ Kiel # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://www.instagram.com/akj_kiel/
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -63,11 +61,12 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Neuigkeiten # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Völker, hört die Signale! Auf zum letzten Gefecht! Die Internationale erkämpft das Menschenrecht."
     feature_text: |
-      Welcome to the blog
+      ## Arbeitskreis kritischer JuristInnen
+      Kieler Schule nur noch für Kieler SchülerInnen!
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -92,8 +91,8 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+lang: de-DE # Set the site language
+title: "Arbeitskreis Kieler JuristInnen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
@@ -121,28 +120,30 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
+- title: Startseite
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
+- title: Beispiele
+  url: /examples/
+- title: Neuigkeiten
   url: /blog/
-- title: Categories
+- title: Kategorien
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Impressum
+  url: /impressum/
+
 
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/akj_kiel/
+  Instagram: https://www.instagram.com/akj_kiel/
+  LinkedIn: https://www.linkedin.com/in/akj_kiel/
+  GitHub: https://github.com/akj_kiel/
+  link: https://akj-kiel.de/
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
@@ -155,7 +156,5 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
 # TIP: Try to keep the number of urls as low to reduce the performance cost
 #      If multiple fonts can be requested in a single url opt for this
 fonts:
-  preconnect_urls:
-    - https://fonts.gstatic.com
   font_urls:
-    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - /assets/Merryweather.css

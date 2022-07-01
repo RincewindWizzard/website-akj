@@ -1,93 +1,68 @@
 ---
-title: About Alembic
+title: Arbeitskreis kritischer JuristInnen Kiel
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## Arbeitskreis kritischer JuristInnen
+  Kieler Schule nur noch für Kieler SchülerInnen!
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: |
+  „Der rote Faden unserer Arbeit ist das Bewusstsein der historischen Verantwortung, dass von Kiel aus die 
+  „Kieler Schule“ durch die Pervertierung des Rechts zu einem Wegbereiter der Ideologie des Nazi-Regimes wurde.“
+aside: true
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Der Arbeitskreis kritischer Jurist*innen Kiel ist ein Zusammenschluss von Personen, die sich mit rechtspolitischen 
+Themen kritisch auseinandersetzen.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+Wir sind offen für alle Menschen unabhängig von ihrer eigenen Lebensrealität oder Vorbildung, um möglichst vielfältige 
+Perspektiven einfließen zu lassen.
 
-## Features
+Wir verstehen uns als antifaschistisch, undogmatisch und sind parteipolitisch ungebunden. Wir sind eine Gruppe von und 
+für Menschen, die fortschrittliche rechtspolitische Positionen entwickeln, diskutieren, vertreten und andere von diesen 
+überzeugen wollen.
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+Dabei wenden wir uns gegen Rassismus, Antisemitismus, Sexismus, Klassismus und jede andere Form von (struktureller) 
+Diskriminierung.
 
-## Examples
+### Unsere Ziele
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Wir verstehen Recht nicht als etwas Neutrales, sondern als ein grundlegendes gesellschaftsstrukturierendes Konstrukt, 
+das ungleiche und unterdrückende Herrschaftsverhältnisse begründet und diese Ordnung festschreibt. 
+Deshalb wollen wir Perspektiven bieten, die sowohl über die juristische Ausbildung als auch über die bestehenden 
+Verhältnisse hinausweisen. Eine kritische Auseinandersetzung mit Recht und Rechtswissenschaft, die das Verhältnis von 
+Recht und Gesellschaft sowie die Auswirkungen von Recht auf andere Lebensbereiche thematisiert, ist daher unserer 
+Meinung nach nicht nur für ein reflektiertes Jurastudium notwendig, sondern auch für solidarischen gesellschaftlichen 
+und progressiven Wandel. Deshalb halten wir eine Auseinandersetzung mit Kontinuitäten rechter Strukturen innerhalb des 
+Rechts und der staatlichen Institutionen für erforderlich. Der rote Faden unserer Arbeit ist das Bewusstsein der 
+historischen Verantwortung, dass von Kiel aus die „Kieler Schule“ durch die Pervertierung des Rechts zu einem 
+Wegbereiter der Ideologie des Nazi-Regimes wurde. Wir wollen ein Garant für die stete Erinnerung und Mahnung sein. 
+Um breite Perspektiven zu berücksichtigen und zur Verwirklichung unserer weiteren Ziele, wollen wir Menschen jeden 
+Hintergrunds ermutigen teilzunehmen. Weiterhin wollen wir mit anderen Gruppen und Einzelpersonen aus ganz 
+Schleswig-Holstein zusammenarbeiten, die sich den gleichen Werten verpflichtet fühlen. 
+Im Bewusstsein der Privilegien von Akademiker*innen wollen wir aktiv Schwellen zur Mitwirkung – sowohl innerhalb 
+unserer Gruppe als auch gesamtgesellschaftlich – abbauen. Bei unserer Arbeit ist uns ein faires und respektvolles 
+Miteinander wichtig.
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+### Unsere Themen
 
-## Installation
+Wir beschäftigen uns rechtspolitisch zum einen intersektional mit Formen von struktureller Unterdrückung, wie z.B. 
+Sexismus, Rassismus, Klassismus, Antisemitismus, LGBTQI+-Feindlichkeit, Ableismus, und ihrer Verknüpfung mit Recht. 
+Außerdem wollen wir uns für den Schutz von Menschen- und Freiheitsrechten einsetzen, eng damit verbunden ist für uns 
+die Herstellung von Klimagerechtigkeit und der Schutz der Umwelt und ihre Gewährleistung im Recht. 
+Ein weiteres Themenfeld ist die Reformierung der Jurist*innenausbildung sowohl was ihren Inhalt als auch ihren 
+Aufbau betrifft. Wir wollen aktuelle (rechts-)politische Themen zum Anlass nehmen, um uns kritisch mit dem Rechtsstaat 
+in seiner konkreten Gestalt auseinanderzusetzen und uns in den öffentlichen Diskurs hierzu einbringen.
 
-### Quick setup
+Zu diesen Themenbereichen veranstalten wir Formate wie Lesekreise, Podiumsdiskussionen, Workshops, Vorträge. 
+Als Gruppe und in gemeinsamen Bündnissen wollen wir uns auch an konkreten Aktionen wie der Teilnahme an und Beobachtung 
+von Demonstrationen sowie der kritischen Prozessbegleitungen beteiligen.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+    „hierarchiefrei und basisdemokratisch“
+    Selbstverständnis AKJ Kiel
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+### So sind wir organisiert
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+Der Arbeitskreis ist hierarchiefrei und basisdemokratisch organisiert. Die Zuständigkeiten unserer Gruppenmitglieder sind flexibel und orientieren sich an den unterschiedlichen Bedürfnissen. Unsere Treffen finden in regelmäßigen Abständen (alle zwei Wochen) statt. Zwischen den Treffen arbeiten wir themen- und aktionsbezogen in kleinen Gruppen. Neben der inhaltlichen Arbeit legen wir Wert darauf, eine Plattform zum Austausch und zum Kontakte knüpfen zu bieten.
 
-### As a Jekyll theme
+Wir freuen uns über interessierte Personen, die Lust haben gemeinsam mit uns aktiv zu werden.
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a Boilerplate / Fork
-
-_(deprecated, not recommended)_
-
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+Schreibt uns eine Mail an [kontakt@akj-kiel.de](mailto:kontakt@akj-kiel.de)!
