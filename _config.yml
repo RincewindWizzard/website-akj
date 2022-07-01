@@ -132,6 +132,8 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
+- title: Chat
+  url: https://element.io/get-started
 - title: Impressum
   url: /impressum/
 
