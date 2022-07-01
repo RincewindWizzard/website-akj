@@ -2,7 +2,7 @@
 title: Arbeitskreis kritischer JuristInnen Kiel
 feature_text: |
   ## Arbeitskreis kritischer JuristInnen
-  Kieler Schule nur noch für Kieler SchülerInnen!
+
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: |
   „Der rote Faden unserer Arbeit ist das Bewusstsein der historischen Verantwortung, dass von Kiel aus die 
