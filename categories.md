@@ -1,6 +1,6 @@
 ---
-title: Neigikeiten nach Kategorie
+title: Neuigkeiten nach Kategorie
 layout: categories
-excerpt: "Neigikeiten nach Kategorie"
+excerpt: "Neuigkeiten nach Kategorie"
 aside: true
 ---
