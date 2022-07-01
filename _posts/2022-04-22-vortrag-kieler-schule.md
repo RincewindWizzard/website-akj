@@ -1,7 +1,6 @@
 ---
 title: Vortrag und Diskussion zur „Kieler Schule“ am Montag, den 9. Mai 2022 um 18 Uhr
 categories:
-- General
 - Vorträge
 excerpt: |
   Der rote Faden unserer Arbeit ist das Bewusstsein der historischen Verantwortung, dass von Kiel aus die „Kieler Schule“ 

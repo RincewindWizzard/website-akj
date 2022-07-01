@@ -140,6 +140,7 @@ navigation_footer:
 - title: AKJ Kiel
   url: https://akj-kiel.de/
 
+
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/akj_kiel/
   Instagram: https://www.instagram.com/akj_kiel/
