@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abee5f82-8764-43b7-9cb3-74730a2a9d01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Merryweather.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-27-example-post-one.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-28-example-post-two.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-08-29-example-post-three.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elements.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories.md" beforeDir="false" afterPath="$PROJECT_DIR$/categories.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: Neigikeiten nach Kategorie
 layout: categories
-excerpt: "Category index"
+excerpt: "Neigikeiten nach Kategorie"
 aside: true
 ---
