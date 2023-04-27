@@ -10,7 +10,7 @@ excerpt: |
 aside: true
 ---
 
-ACHTUNG! Diese Seite ist nur ein Mockup, den ich damals entworfen habe, der aber nie zum Einsatz kam. Quellcode ist auf [Github|https://github.com/RincewindWizzard/website-akj].
+ACHTUNG! Diese Seite ist nur ein Mockup, den ich damals entworfen habe, der aber nie zum Einsatz kam. Quellcode ist auf [Github](https://github.com/RincewindWizzard/website-akj).
 
 Der Arbeitskreis kritischer Jurist*innen Kiel ist ein Zusammenschluss von Personen, die sich mit rechtspolitischen 
 Themen kritisch auseinandersetzen.
